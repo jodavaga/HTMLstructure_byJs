@@ -1,0 +1,30 @@
+{
+  "name": "html-by-js",
+  "version": "1.0.0",
+  "description": "create HTML structure by JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jodavaga/HTMLstructure_byJs.git"
+  },
+  "keywords": [
+    "html",
+    "js"
+  ],
+  "author": "Jose D. Vasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jodavaga/HTMLstructure_byJs/issues"
+  },
+  "homepage": "https://github.com/jodavaga/HTMLstructure_byJs#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.7",
+    "gulp": "^3.9.1",
+    "gulp-refresh": "^1.1.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-webserver": "^0.9.1"
+  }
+}
